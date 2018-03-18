@@ -1,10 +1,9 @@
 package com.elsawaf.thebrilliant.a3smovies;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.elsawaf.thebrilliant.a3smovies.model.Movie;
 import com.elsawaf.thebrilliant.a3smovies.utils.Constants;

@@ -3,11 +3,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.elsawaf.thebrilliant.a3smovies.DetailsActivity">
+    tools:context="com.elsawaf.thebrilliant.a3smovies.DetailsActivity"
+    tools:ignore="RtlHardcoded">
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="wrap_content">
 
         <ImageView
             android:id="@+id/image_view_poster"
